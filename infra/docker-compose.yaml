@@ -12,7 +12,7 @@ services:
   web:
     build:
       context: ../
-      dockerfile: ./api_yamdb/Dockerfile
+      dockerfile: ../api_yamdb/Dockerfile
     image: gwynrey/api_yamdb
     restart: always
     volumes:
