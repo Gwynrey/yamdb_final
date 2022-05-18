@@ -62,6 +62,11 @@ python manage.py load_title_data
 
 ```
 
+## Ссылки:
+
+http://51.250.110.247/admin/
+http://51.250.110.247/redoc/
+http://51.250.110.247/api/v1/
 
 ## Авторы:
 
