@@ -10,7 +10,7 @@ services:
       - ./.env
 
   web:
-    image: gwynrey/api_yamdb:v3.0
+    image: gwynrey/api_yamdb:v3.1
     volumes:
       - static_value:/app/static/
       - media_value:/app/media/
